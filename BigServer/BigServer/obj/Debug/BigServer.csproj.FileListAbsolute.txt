@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\bin\Debug\BigServer.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\bin\Debug\BigServer.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\bin\Debug\BigServer.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\obj\Debug\BigServer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\obj\Debug\BigServer.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\BigServer\BigServer\obj\Debug\BigServer.pdb

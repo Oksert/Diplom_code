@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\bin\Debug\Client_syn.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\bin\Debug\Client_syn.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\bin\Debug\Client_syn.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\obj\Debug\Client_syn.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\obj\Debug\Client_syn.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Client-Syn\Client\obj\Debug\Client_syn.csprojResolveAssemblyReference.cache

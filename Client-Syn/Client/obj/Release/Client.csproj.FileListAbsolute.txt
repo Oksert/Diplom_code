@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Client\Client\bin\Release\Client.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Client\Client\bin\Release\Client.exe
+c:\users\admin\documents\visual studio 2012\Projects\Client\Client\bin\Release\Client.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Client\Client\obj\Release\Client.exe
+c:\users\admin\documents\visual studio 2012\Projects\Client\Client\obj\Release\Client.pdb
